@@ -1,2 +1,2 @@
 # Hi,  Am Ebons Agaba 
-an upcoming Programmer
+an upcoming Programmer for Java and Python
